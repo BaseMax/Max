@@ -7,6 +7,11 @@ description: "@github developer maintainer. Full-Time Open-Sourcerer. Full-stack
 markdown: kramdown
 plugins:
   - jekyll-sitemap
+  - jekyll-avatar
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-sitemap
   - jemoji
 
 collections:
