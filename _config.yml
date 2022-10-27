@@ -1,0 +1,11 @@
+title: "Max Base"
+description: "@github developer maintainer. Full-Time Open-Sourcerer. Full-stack programmer. In the path of a real computer engineer... (Compiler enthusiast)"
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jemoji
+
+collections:
+  networks:
+    output: true
+    sidebar_label: Networks
