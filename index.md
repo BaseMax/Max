@@ -3,21 +3,41 @@ layout: default
 title: Max Base - Software Engineer and Open source maintainer
 ---
 
-<div class="center">
-	
-Max Base
-========
+<center>
+  <br>
+  <h1>Max Base</h1>
+  <h2>(Seyyed) Ali Mohammadiyeh</h2>
+  <p>
+    Senior Software Engineer
+    <br>
+    GitHub, Developer Maintainer
+  </p>
+  <br>
+  <!-- <a href="#technical-skills">Technical skills</a> -->
+  <!-- &nbsp;|&nbsp; -->
+  <a href="#awards">Awards</a>
+  &nbsp;|&nbsp;
+  <a href="#experiences">Experiences</a>
+  &nbsp;|&nbsp;
+  <a href="#job-offers">Job offers</a>
+  &nbsp;|&nbsp;
+  <a href="#projects">Projects</a>
+  &nbsp;|&nbsp;
+  <a href="#talks-conference">Talks & Conference</a>
+  &nbsp;|&nbsp;
 
-(Seyyed) Ali Mohammadiyeh
--------------------------
-
-Senior Software Engineer  
-GitHub, Developer Maintainer
-  
-[Awards](#awards)  |  [Experiences](#experiences)  |  [Job offers](#job-offers)  |  [Projects](#projects)  |  [Talks & Conference](#talks-conference)  |  [Book(s)](#books)  |  [Social Network](#social-network)  |  [Open Source Staff](#open-source-staff)  
-[Technical blog](#technical-blog)  |  [Life blog](#life-blog)  |  [Contact me](#contact-me)
-
-</div>
+  <a href="#books">Book(s)</a>
+  &nbsp;|&nbsp;
+  <a href="#social-network">Social Network</a>
+  &nbsp;|&nbsp;
+  <a href="#open-source-staff">Open Source Staff</a>
+  <br>
+  <a href="#technical-blog">Technical blog</a>
+  &nbsp;|&nbsp;
+  <a href="#life-blog">Life blog</a>
+  &nbsp;|&nbsp;
+  <a href="#contact-me">Contact me</a>
+</center>
 
 Max Base: Seyyed Ali Mohammadiyeh
 =================================
