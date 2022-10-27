@@ -61,5 +61,4 @@ layout: default
 	<h2>Comments</h2>
 
 	<p>Comments are locked for this post.</p>
-
 {% endif %}
