@@ -3,8 +3,7 @@ layout: default
 title: Max Base - Software Engineer and Open source maintainer
 ---
 
-<p align="center">
-
+<div class="center">
 	
 Max Base
 ========
@@ -18,8 +17,7 @@ GitHub, Developer Maintainer
 [Awards](#awards)  |  [Experiences](#experiences)  |  [Job offers](#job-offers)  |  [Projects](#projects)  |  [Talks & Conference](#talks-conference)  |  [Book(s)](#books)  |  [Social Network](#social-network)  |  [Open Source Staff](#open-source-staff)  
 [Technical blog](#technical-blog)  |  [Life blog](#life-blog)  |  [Contact me](#contact-me)
 
-
-</p>
+</div>
 
 Max Base: Seyyed Ali Mohammadiyeh
 =================================
