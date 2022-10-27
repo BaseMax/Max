@@ -16,7 +16,7 @@ In the name of god; Greetings!
 ## Posts
 
 <table class="accounts" width="100%" border="0">
-  {% for post in site.posts %}
+  {% for post in site.posts limit:10 %}
   <tr>
     <td width="auto">
        <a href="{{ post.url | relative_url }}" class="avatar">
