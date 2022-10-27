@@ -13,6 +13,20 @@ In the name of god; Greetings!
 	Linus Torvalds: “Talk is cheap. Show me the code.”
 </p>
 
+## Posts
+
+<table class="accounts" width="100%" border="0">
+  {% for post in site.posts %}
+  <tr>
+    <td width="auto">
+       <a href="{{ post.url | relative_url }}" class="avatar">
+         {{ post.title }}
+       </a>
+    </td>
+  </tr>
+  {% endfor %}
+</table>
+
 ## Community
 
 You can see a list of all [Community members](/network/){:target="\_blank"}, also you can join [here](https://github.com/NextCommunity/NextCommunity#do-you-want-to-add-yourself){:target="\_blank"}.
