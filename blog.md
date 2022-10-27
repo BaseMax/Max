@@ -1,14 +1,12 @@
 ---
-layout: default
-date: 2020-10-01
+layout: page
 permalink: /blog/
-categories:
+title: Blog
 description: Blog
 tags:
-title: Blog
 ---
 
-<table class="accounts" width="100%" border="0">
+<table width="100%" border="0">
   {% for post in site.posts %}
   <tr>
     <td width="auto">
