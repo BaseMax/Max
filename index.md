@@ -3,6 +3,8 @@ layout: default
 title: Max Base - Software Engineer and Open source maintainer
 ---
 
+<center>
+
 Max Base
 ========
 
@@ -16,21 +18,15 @@ GitHub, Developer Maintainer
 [Awards](#awards)  |  [Experiences](#experiences)  |  [Job offers](#job-offers)  |  [Projects](#projects)  |  [Talks & Conference](#talks-conference)  |  [Book(s)](#books)  |  [Social Network](#social-network)  |  [Open Source Staff](#open-source-staff)  
 [Technical blog](#technical-blog)  |  [Life blog](#life-blog)  |  [Contact me](#contact-me)
 
-
-
-([Also available in Persian](https://maxbase.ir/){:target="_blank"})
-
-In the name of god; Greetings!
-
-<p class="callout">
-	Linus Torvalds: “Talk is cheap. Show me the code.”
-</p>
-
+</center>
 
 Max Base: Seyyed Ali Mohammadiyeh
 =================================
 
-Greetings!  
+In the name of god; Greetings!
+
+([Also available in Persian](https://maxbase.ir/){:target="_blank"})
+
 I, Ali, and my my nickname is Max, currently live in [Kashan](https://en.wikipedia.org/wiki/Kashan). I am a consulting computer analyst/programmer.
 
 As a Full-stack developer I tried many different area of computer science. from assembly and system to web development and design. from high processing and high traffic to algorithm design.  
@@ -74,6 +70,11 @@ This is just a table and the names of the technologies that I have worked with a
 *   **Operation Systems**: Gnu/Linux (Arch Linux, Ubuntu, Centos, Manjaro), Unix-Like, FreeBSD; My main operating system is Arch-base. But I used BSD for desktops and servers before.
 *   **Content management systems**: Wordpress (Design dozens of theme templates and several plugins), Joomla(Editing the template and writing the plugin: I almost forgot it and it is from 7 years ago), WHMCS (Design plugins, and upgrading a dozens of plugins), DataLife Engine (Design a couple templates and modules: almost forgot it and it is from 6 years ago)
 *   **UI/Design**: Adobe Photoshop (years ago; I almost do not do this anymore), [Photopea](https://www.photopea.com/) (Online), Adobe XD, Figma
+
+<q>
+	Linus Torvalds: “Talk is cheap. Show me the code.”
+</p>
+
 
 Research affiliation
 --------------------
