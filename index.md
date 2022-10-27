@@ -650,9 +650,3 @@ You can send an email for me to maxbasecode (at) gmail.com. I read everything se
 **By Mail:**
 
 > Seyyed Ali Mohammadiyeh, Department of Pure Mathematics, Faculty of Mathematical Sciences, University of Kashan, Kashan, I. R. Iran
-
-* * *
-
-![](license.png)  
-  
-Copyright © 2010 - 2022 Max Base
