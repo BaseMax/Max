@@ -1,4 +1,4 @@
-/* 2021 ; Max Base, github.com/basemax */
+/* 2021 - 2022; Max Base, github.com/basemax */
 body {
   background-color: white;
   font-family: sans-serif;
@@ -96,6 +96,7 @@ a:hover {
   }
 }
 
-.ruby {
-  color: red;
+ul {
+  margin: 0px;
+  padding: 0px;
 }
