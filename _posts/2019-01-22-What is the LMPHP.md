@@ -2,6 +2,7 @@
 layout: post
 date: 2019-01-22
 title: What is the LMPHP?
+categories: [Technology]
 ---
 
 **LMPHP** is a library for multi-language support in the PHP-based application backends.

@@ -2,6 +2,7 @@
 layout: post
 date: 2019-02-22
 title: Implementing a Web site with specific technologies
+categories: [Technology]
 ---
 
 A useful challenge to rebuild the book's search system.

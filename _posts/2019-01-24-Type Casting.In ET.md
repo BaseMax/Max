@@ -2,6 +2,7 @@
 layout: post
 date: 2019-01-24
 title: Type Casting in ET Programming Language
+categories: [Technology]
 ---
 
 Some programming language does not require explicit type definition in the variable declaration.

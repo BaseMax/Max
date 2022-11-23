@@ -2,6 +2,7 @@
 layout: post
 date: 2019-02-02
 title: Part3 Questions about making the picture more natural.
+categories: [Technology]
 ---
 
 Although this is a simple question and easy...
@@ -14,8 +15,6 @@ And thanks to the professor.
 # Question 1
 
 Goal: change the red sign to be blue
-
-
 
 ![Make the picture more natural](https://basemax.github.io/assets/image/stop5.jpg)
 

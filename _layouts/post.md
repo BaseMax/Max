@@ -54,6 +54,7 @@ excerpt_separator: <!--more-->
 
 </div>
 
+<!--
 {% if page.comments_id %}
 	<h2>Comments</h2>
 
@@ -63,3 +64,4 @@ excerpt_separator: <!--more-->
 
 	<p>Comments are locked for this post.</p>
 {% endif %}
+-->

@@ -2,11 +2,10 @@
 layout: post
 date: 2019-02-07
 title: Some University professors
+categories: [Life]
 ---
 
-
 In any case, this can be generalized to humans.
-
 
 ### Consult and Speak
 
@@ -66,10 +65,7 @@ Whatever he is thinking of himself.
 
 But it loses more than anything else and loses opportunities.
 
-
-
 ----------
-
 
 
 #### To the health of the professors and people who really help humanity.

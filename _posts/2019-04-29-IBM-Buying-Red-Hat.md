@@ -2,6 +2,7 @@
 layout: post
 date: 2019-04-29
 title: IBM Began Buying Red Hat
+categories: [Technology]
 ---
 
 IBM wants to get serious about cloud computing, IBM has been struggling in a competitive cloud market...

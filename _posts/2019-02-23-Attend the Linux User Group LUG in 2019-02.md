@@ -2,6 +2,7 @@
 layout: post
 date: 2019-02-23
 title: Attend the Linux User Group (LUG) in 2019-02
+categories: [Technology]
 ---
 
 It was an opportunity for me to be invited and i can be there.

@@ -2,6 +2,7 @@
 layout: post
 date: 2019-03-19
 title: End Of Life date for Python 2.7 
+categories: [Technology]
 ---
 
 The End Of Life date (EOL, sunset date) for Python 2.7 has been moved five years into the future, to 2020.  This decision was made to clarify the status of Python 2.7 and relieve worries for those users who cannot yet migrate to Python 3.  See also PEP 466.

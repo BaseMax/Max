@@ -2,6 +2,7 @@
 layout: post
 date: 2019-02-25
 title: Speech at a seminar and conference about Rust Programming language
+categories: [Technology]
 ---
 
 On December 4, 2018, they notified me.

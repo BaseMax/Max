@@ -2,6 +2,7 @@
 layout: post
 date: 2019-02-04
 title: Part3 Answer about making the picture more natural.
+categories: [Technology]
 ---
 
 Please not see the answer before think.

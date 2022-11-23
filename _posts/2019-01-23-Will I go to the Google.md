@@ -2,8 +2,8 @@
 layout: post
 date: 2019-01-23
 title: Will I go to the Google Co?
+categories: [Life]
 ---
-
 
 But this decision is not so simple.
 If I go ... What are the current projects?

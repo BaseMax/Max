@@ -5,17 +5,27 @@ title: "Max Base"
 description: "@github developer maintainer. Full-Time Open-Sourcerer. Full-stack programmer. In the path of a real computer engineer... (Compiler enthusiast)"
 
 markdown: kramdown
+
+# Configure the jekyll-category-pages
+category_path: "blog"
+category_layout: "category_index.html"
+
 plugins:
   - jekyll-sitemap
   - jekyll-avatar
   - jekyll-feed
-  - jekyll-paginate
+  # - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-sitemap
   - jemoji
+  - jekyll-category-pages
 
 collections:
   posts:
     output: true
     sidebar_label: Posts
     permalink: /blog/:categories/:title/
+
+  # category:
+  #   output: true
+  #   permalink: /blog/:title/

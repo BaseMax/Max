@@ -2,6 +2,7 @@
 layout: post
 date: 2019-01-31
 title: Part1 Questions about making the picture more natural.
+categories: [Technology]
 ---
 
 Although this is a simple question and easy...

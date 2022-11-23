@@ -61,6 +61,10 @@ a:hover {
   outline: thin black solid;
 }
 
+img {
+  max-width: 100%;
+}
+
 .new {
   background-color: yellow;
 }

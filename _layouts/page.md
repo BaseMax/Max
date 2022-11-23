@@ -5,7 +5,7 @@ layout: default
 <section>
   <h1>
     <a href="{{ site.url }}/">&uarr;</a>
-    {{ page.title }}
+    {{ page.title | capitalize }}
   </h1>
 
   {{ content }}

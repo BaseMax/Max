@@ -2,6 +2,7 @@
 layout: post
 date: 2019-02-08
 title: ET Operator Precedence
+categories: [Technology]
 ---
 
 The following table lists the precedence and associativity of **ET** operators.
