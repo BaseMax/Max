@@ -49,7 +49,7 @@ In the name of god; Greetings!
 
 {% include _sections/short-bio.md %}
 
-Technical blog
+<!-- Technical blog
 --------------
 
 {% include _sections/technical-blog.md %}
@@ -57,7 +57,7 @@ Technical blog
 Life blog
 ---------
 
-{% include _sections/life-blog.md %}
+{% include _sections/life-blog.md %} -->
 
 Contact me
 ----------

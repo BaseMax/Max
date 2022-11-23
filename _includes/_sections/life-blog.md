@@ -6,7 +6,7 @@
       {% for post in sorted %}
         <li>
           <a href="{{ post.url | downcase | relative_url }}">
-            {{ post.title }}
+            {{ post.date | date: '%Y/%m/%d' }}: <b>{{ post.title }}</b>
           </a>
         </li>
       {% endfor %}
