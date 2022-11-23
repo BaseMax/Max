@@ -13,32 +13,22 @@ title: Max Base - Software Engineer and Open source maintainer
     GitHub, Developer Maintainer
   </p>
   <br>
-  <!-- <a href="#technical-skills">Technical skills</a> -->
-  <!-- &nbsp;|&nbsp; -->
-  <a href="/about/">About me</a>
-  &nbsp;|&nbsp;
-  <a href="#awards">Awards</a>
-  &nbsp;|&nbsp;
-  <a href="#experiences">Experiences</a>
-  &nbsp;|&nbsp;
-  <a href="#job-offers">Job offers</a>
-  &nbsp;|&nbsp;
-  <a href="#projects">Projects</a>
-  &nbsp;|&nbsp;
-  <a href="#talks-conference">Talks & Conference</a>
-  &nbsp;|&nbsp;
 
-  <a href="#books">Book(s)</a>
+  <a href="/cv/">CV</a>
   &nbsp;|&nbsp;
-  <a href="#social-network">Social Network</a>
+  <a href="/project/">Projects</a>
   &nbsp;|&nbsp;
-  <a href="#open-source-staff">Open Source Staff</a>
+  <a href="/talk/">Talks & Conference</a>
+  &nbsp;|&nbsp;
+  <a href="/book/">Book(s)</a>
+  &nbsp;|&nbsp;
+  <a href="/project/open-source/">Open Source Staff</a>
   <br>
-  <a href="#technical-blog">Technical blog</a>
+  <a href="/blog/technical-blog/">Technical blog</a>
   &nbsp;|&nbsp;
-  <a href="#life-blog">Life blog</a>
+  <a href="/blog/life/">Life blog</a>
   &nbsp;|&nbsp;
-  <a href="#contact-me">Contact me</a>
+  <a href="/contact/">Contact me</a>
 </center>
 
 <br>

@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /about/
-title: About - Max Base
+permalink: /cv/
+title: Cv - Max Base
 description: Ali Mohammadiyeh (a.k.a Max Base) is a software engineer and open-source maintainer.
 tags:
 ---
@@ -113,6 +113,24 @@ Open-Source Staff by Max
 
 {% include _sections/open-source-projects.md %}
 
+Grants of fellowships
+---------------------
+
+Languages
+---------
+
+{% include _sections/languages.md %}
+
+Certificates
+------------
+
+{% include _sections/certificates.md %}
+
+Teaching or lecturing experience
+--------------------------------
+
+{% include _sections/teaching.md %}
+
 Technical blog
 --------------
 
@@ -123,7 +141,7 @@ Life blog
 
 {% include _sections/life-blog.md %}
 
-Contact me
+Contact information
 ----------
 
 {% include _sections/contact-us.md %}
