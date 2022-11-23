@@ -112,3 +112,7 @@ ul ul {
     padding: revert;
     margin: revert;
 }
+
+.copyright {
+  font-size: 0.8em;
+}

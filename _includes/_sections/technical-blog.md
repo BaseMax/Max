@@ -1,7 +1,9 @@
 <ul>
   {% for category in site.categories %}
-    {% if post.title == "Technology" %}
-      {% for post in category.last %}
+    {{ category.title }}
+    {% if category.title == "Technology" %}
+      {% assign sorted = category.last | sort: 'date' | reverse  %}
+      {% for post in sorted %}
         <li>
           <a href="{{ post.url | downcase | relative_url }}">
             {{ post.title }}

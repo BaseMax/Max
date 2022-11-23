@@ -3,11 +3,11 @@ layout: page
 ---
 
 <ul>
-  {% for post in page.posts %}
-    <li>
-      <a href="{{ post.url | downcase | relative_url }}">
-        {{ post.title }}
-      </a>
-    </li>
-  {% endfor %}
+	{% for post in page.posts %}
+		<li>
+			<a href="{{ post.url | downcase | relative_url }}">
+				{{ post.title }}
+			</a>
+		</li>
+	{% endfor %}
 </ul>

@@ -11,7 +11,7 @@ title: Categories
     <ul>
       {% for post in site.categories[category_name] %}
       <li>
-        <a href="{{ post.url | downcase | relative_url }}">{{ post.title }}</a>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       </li>
       {% endfor %}
     </ul>
