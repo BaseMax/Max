@@ -4,7 +4,12 @@
 
 ## Setup
 
+```bash
+$ gem update
+$ gem install jekyll bundler
+$ bundle add webrick
+$ bundle install
+$ bundle exec jekyll serve --livereload
 ```
-gem update
-gem install jekyll bundler
-```
+
+Read more at https://jekyllrb.com/docs/usage/ and https://jekyllrb.com/docs/
