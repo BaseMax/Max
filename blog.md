@@ -6,14 +6,12 @@ description: Blog
 tags:
 ---
 
-<table width="100%" border="0">
+<ul>
   {% for post in site.posts %}
-  <tr>
-    <td width="auto">
-       <a href="{{ post.url | relative_url }}">
-         {{ post.title }}
-       </a>
-    </td>
-  </tr>
+  <li>
+    <a href="{{ post.url | downcase | relative_url }}">
+      {{ post.title }}
+    </a>
+  </li>
   {% endfor %}
-</table>
+</ul>

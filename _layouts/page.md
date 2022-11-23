@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article itemscope itemtype="http://schema.org/BlogPosting">
+<section>
   <h1>
     <a href="{{ site.url }}/">&uarr;</a>
     {{ page.title }}
@@ -10,5 +10,4 @@ layout: default
 
   {{ content }}
 
-</article>
-
+</section>
