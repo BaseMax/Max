@@ -15,7 +15,7 @@ title: Max Base - Software Engineer and Open source maintainer
   <br>
   <!-- <a href="#technical-skills">Technical skills</a> -->
   <!-- &nbsp;|&nbsp; -->
-  <a href="/cv/">CV</a>
+  <a href="/about/">About me</a>
   &nbsp;|&nbsp;
   <a href="#awards">Awards</a>
   &nbsp;|&nbsp;
