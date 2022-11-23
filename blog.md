@@ -11,7 +11,7 @@ tags:
 	{% for post in sorted %}
 	<li>
 		<a href="{{ post.url | downcase | relative_url }}">
-			{{ post.date | date: '%Y/%m/%d' }}: {{ post.title }}
+			{{ post.date | date: '%Y/%m/%d' }}: <b>{{ post.title }}</b>
 		</a>
 	</li>
 	{% endfor %}
@@ -24,9 +24,12 @@ tags:
   <div id="#{{ category_name | slugize }}">
     <h3>{{ category_name | capitalize }}</h3>
     <ul>
-      {% for post in site.categories[category_name] %}
+      {% assign sorted = site.categories[category_name] | sort: 'date' | reverse  %}
+      {% for post in sorted %}
       <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+				<a href="{{ post.url | downcase | relative_url }}">
+					{{ post.date | date: '%Y/%m/%d' }}: <b>{{ post.title }}</b>
+				</a>
       </li>
       {% endfor %}
     </ul>

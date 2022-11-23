@@ -1,12 +1,12 @@
 <ul>
   {% for category in site.categories %}
-    {{ category.title }}
-    {% if category.title == "Technology" %}
-      {% assign sorted = category.last | sort: 'date' | reverse  %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    {% if category_name == "Technology" %}
+      {% assign sorted = site.categories[category_name] | sort: 'date' | reverse  %}
       {% for post in sorted %}
         <li>
           <a href="{{ post.url | downcase | relative_url }}">
-            {{ post.title }}
+            {{ post.date | date: '%Y/%m/%d' }}: <b>{{ post.title }}</b>
           </a>
         </li>
       {% endfor %}
