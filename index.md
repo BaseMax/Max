@@ -15,6 +15,8 @@ title: Max Base - Software Engineer and Open source maintainer
   <br>
   <!-- <a href="#technical-skills">Technical skills</a> -->
   <!-- &nbsp;|&nbsp; -->
+  <a href="/cv/">CV</a>
+  &nbsp;|&nbsp;
   <a href="#awards">Awards</a>
   &nbsp;|&nbsp;
   <a href="#experiences">Experiences</a>
@@ -39,76 +41,13 @@ title: Max Base - Software Engineer and Open source maintainer
   <a href="#contact-me">Contact me</a>
 </center>
 
-Max Base: Seyyed Ali Mohammadiyeh
-=================================
+<br>
 
 In the name of god; Greetings!
 
 ([Also available in Persian](https://maxbase.ir/){:target="_blank"})
 
-{% include _sections/bio.md %}
-
-Technical skills
-----------------
-
-{% include _sections/skills.md %}
-
-<q>
-	Linus Torvalds: “Talk is cheap. Show me the code.”
-</p>
-
-Research affiliation
---------------------
-
-{% include _sections/research.md %}
-
-Awards
-------
-
-{% include _sections/awards.md %}
-
-Experiences
------------
-
-{% include _sections/experiences.md %}
-
-Part-time experiences
----------------------
-
-{% include _sections/short-experiences.md %}
-
-Job offers or opportunities
----------------------------
-
-{% include _sections/job-offers.md %}
-
-Involved Projects
------------------
-
-{% include _sections/projects.md %}
-
-Talks & Conferences
--------------------
-
-{% include _sections/talks.md %}
-
-Book(s)
--------
-
-{% include _sections/books.md %}
-
-Social Network of Max Base
---------------------------
-
-*   GitHub: [BaseMax](https://github.com/basemax)
-*   Telegram: [@MAX\_BASE](https://t.me/MAX_BASE)
-*   Gitlab: [BaseMax](https://gitlab.com/BaseMax)
-*   Stackoverflow: [max-base](https://stackoverflow.com/users/10096230/max-base)
-
-Open-Source Staff by Max
-------------------------
-
-{% include _sections/open-source-projects.md %}
+{% include _sections/short-bio.md %}
 
 Technical blog
 --------------
