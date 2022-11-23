@@ -131,15 +131,11 @@ Teaching or lecturing experience
 
 {% include _sections/teaching.md %}
 
-Technical blog
---------------
+Memberships
+-----------
 
-{% include _sections/technical-blog.md %}
-
-Life blog
----------
-
-{% include _sections/life-blog.md %}
+References
+-----------
 
 Contact information
 ----------

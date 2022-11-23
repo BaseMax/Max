@@ -39,7 +39,7 @@ In the name of god; Greetings!
 
 {% include _sections/short-bio.md %}
 
-<!-- Technical blog
+Technical blog
 --------------
 
 {% include _sections/technical-blog.md %}
@@ -47,9 +47,9 @@ In the name of god; Greetings!
 Life blog
 ---------
 
-{% include _sections/life-blog.md %} -->
+{% include _sections/life-blog.md %}
 
-Contact me
+Contact information
 ----------
 
 {% include _sections/contact-us.md %}
