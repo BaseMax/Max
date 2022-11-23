@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2019-06-10
 title: What is the JPOPHP?
 ---
 

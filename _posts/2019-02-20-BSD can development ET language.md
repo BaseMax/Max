@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2019-02-20
 title: Beginning of BSD can have an impact on the development of ET language?
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2019-03-27
 title: Move the blog to the new site and server
 ---
 

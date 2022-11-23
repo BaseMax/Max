@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2019-03-19
 title: End Of Life date for Python 2.7 
 ---
 

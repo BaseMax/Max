@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2019-02-08
 title: ET Operator Precedence
 ---
 

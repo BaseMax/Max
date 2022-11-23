@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2019-01-27
 title: A few examples of the proposed code in ET programming language
 ---
 

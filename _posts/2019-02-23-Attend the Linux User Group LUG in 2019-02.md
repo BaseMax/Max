@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2019-02-23
 title: Attend the Linux User Group (LUG) in 2019-02
 ---
 

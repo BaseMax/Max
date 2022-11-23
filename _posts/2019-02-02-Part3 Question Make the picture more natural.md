@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2019-02-02
 title: Part3 Questions about making the picture more natural.
 ---
 

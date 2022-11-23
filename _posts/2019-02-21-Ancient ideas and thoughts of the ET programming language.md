@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2019-02-21
 title: Ancient ideas and thoughts of the ET Programming Language
 ---
 

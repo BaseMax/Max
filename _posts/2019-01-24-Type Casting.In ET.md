@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2019-01-24
 title: Type Casting in ET Programming Language
 ---
 

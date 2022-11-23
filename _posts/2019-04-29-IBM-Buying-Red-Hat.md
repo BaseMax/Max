@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2019-04-29
 title: IBM Began Buying Red Hat
 ---
 

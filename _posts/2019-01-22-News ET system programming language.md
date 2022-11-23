@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2019-01-22
 title: What news from of the ET System Programming Language?
 ---
 

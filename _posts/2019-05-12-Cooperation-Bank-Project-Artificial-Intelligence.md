@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2019-05-12
 title: Cooperation in a Bank Project - Artificial Intelligence 
 ---
 

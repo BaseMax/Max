@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2019-07-03
 title: Math is Nice!
 ---
 
