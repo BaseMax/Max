@@ -18,3 +18,4 @@ collections:
   posts:
     output: true
     sidebar_label: Posts
+    permalink: /blog/:categories/:title/
