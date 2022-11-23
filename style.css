@@ -100,18 +100,18 @@ img {
   }
 }
 
-ul {
+/* ul {
   margin: 0px;
   padding: 0px;
 }
 article ul {
   margin: revert;
-  padding: revert;a
+  padding: revert;
 }
 ul ul {
-    padding: revert;
-    margin: revert;
-}
+  padding: revert;
+  margin: revert;
+} */
 
 .copyright {
   font-size: 0.8em;

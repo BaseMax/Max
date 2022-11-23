@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /cv/
-title: Cv - Max Base
+title: CV - Max Base
 description: Ali Mohammadiyeh (a.k.a Max Base) is a software engineer and open-source maintainer.
 tags:
 ---
