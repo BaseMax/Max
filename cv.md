@@ -90,10 +90,10 @@ Part-time experiences
 
 {% include _sections/short-experiences.md %}
 
-Job offers or opportunities
+<!-- Job offers or opportunities
 ---------------------------
 
-{% include _sections/job-offers.md %}
+{% include _sections/job-offers.md %} -->
 
 Involved Projects
 -----------------
