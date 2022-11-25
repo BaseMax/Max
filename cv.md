@@ -26,7 +26,7 @@ tags:
   &nbsp;|&nbsp;
   <a href="#projects">Projects</a>
   &nbsp;|&nbsp;
-  <a href="#talks-conference">Talks & Conference</a>
+  <a href="#talks--conferences">Talks & Conference</a>
   &nbsp;|&nbsp;
 
   <a href="#books">Book(s)</a>
@@ -103,10 +103,7 @@ Book(s)
 Social Network of Max Base
 --------------------------
 
-*   GitHub: [BaseMax](https://github.com/basemax)
-*   Telegram: [@MAX\_BASE](https://t.me/MAX_BASE)
-*   Gitlab: [BaseMax](https://gitlab.com/BaseMax)
-*   Stackoverflow: [max-base](https://stackoverflow.com/users/10096230/max-base)
+{% include _sections/social-network.md %}
 
 Open-Source Staff by Max
 ------------------------
@@ -115,6 +112,8 @@ Open-Source Staff by Max
 
 Grants of fellowships
 ---------------------
+
+{% include _sections/fellowships.md %}
 
 Languages
 ---------
@@ -134,8 +133,12 @@ Teaching or lecturing experience
 Memberships
 -----------
 
+{% include _sections/memberships.md %}
+
 References
 -----------
+
+{% include _sections/references.md %}
 
 Contact information
 ----------

@@ -1,0 +1,3 @@
+- **Persian**: Mother's tongue
+- **English**: Limited Working Proficiency or Professional Working
+- **Arabic**: Elementary Proficiency
