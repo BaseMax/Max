@@ -33,28 +33,20 @@
     **"Computing Markaracter Table of Finite Groups"**
 
 <!--  -->
-* Jan 2019: **International Gap workshop** - Tehran, Iran
-    **"Introduction to GAP System and its Application on group theory (Dihedral group, Monster group, etc)"**
-
-* May 2019: **[Computer and Informatics Department, University of Kashan](https://kashanu.ac.ir/)** - Kashan, Iran
-    **"Introduction to 'ONE Programming language' and why my compiler?"**"
-
-* Jan 2020: **[12th Iranian International Group Theory Conference](https://igtc12.modares.ac.ir/)**
-    **"GAP (Group Algorithm Programming)"**
-
-* Feb 2021: **[51st Annual of Iranian Mathematics Conference](https://aimc51.kashanu.ac.ir/)** - Online (COVID)
-    **"Programming from the perspective of group theory"**
 
 * Jan 2021: **[Meeting Baz](https://t.me/MeetingBazzz)** - Online (COVID)
     **"Compiler Design and Structure of JIT(Just In-time)"**
 
-<!-- * Feb 2021: **[POSSF (Persian Open Source Software Festival)](https://possf.ir)** - Keynote speaker -->
+* Jan 2020: **[12th Iranian International Group Theory Conference](https://igtc12.modares.ac.ir/)** - Online (COVID)
+    **"GAP (Group Algorithm Programming)"**
 
-* [12th Iranian International Group Theory Conference](https://igtc12.modares.ac.ir/)
-    **"GAP (Group Algorithm Programming)"**; Seyyed Ali Mohammadiyeh and [Prof. Ali Reza Ashrafi](https://en.wikipedia.org/wiki/Ali_Reza_Ashrafi)
+*  Feb 2020 **[12th Iranian Group Theory Conference](https://igtc12.modares.ac.ir/)** - Tehran, Iran
+    **"GAP (Group Algorithm Programming)"**
 
-* **[51st Annual of Iranian Mathematics Conference](https://aimc51.kashanu.ac.ir/)**
-    **"Draw science image via Pi number"**
+* Jan 2019: **International Gap workshop** - Tehran, Iran
+    **"Introduction to GAP System and its Application on group theory (Dihedral group, Monster group, etc)"**
 
-* Draft - "Calculation Ramsey number R(5,5)"; Seyyed Ali Mohammadiyeh and [Dr. Reza Kahkeshani](https://rezakahkeshani.ir/)
+<!--  -->
 
+* May 2019: **[Computer and Informatics Department, University of Kashan](https://kashanu.ac.ir/)** - Kashan, Iran
+    **"Introduction to 'ONE Programming language' and why my compiler?"**"
