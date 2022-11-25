@@ -3,14 +3,16 @@ This is just a table and the names of the technologies that I have worked with a
 *   **Programming languages**:
     *   C
     *   PHP 8.1
-    *   Javascript, Typescript (ES6, NodeJS)
-    *   Python 3
+    *   JavaScript, TypeScript (ES6+)
+    *   Python
     *   Go
-    *   Shell/Bash
+    *   Ruby
+    *   Bash
 *   **Web Development**:
-    *   HTML5
+    *   HTML 5
     *   CSS 3 (Responsive, Flex, Grid)
-    *   Javascript, DOM
+    *   JavaScript, DOM
+    *   Special effects, Animation, and Canvas
 *   **Front-end libraries and frameworks**:
     *   jQuery
     *   Bootstrap

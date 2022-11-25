@@ -11,6 +11,8 @@ tags:
   <h1>Max Base</h1>
   <h2>(Seyyed) Ali Mohammadiyeh</h2>
   <p>
+    CTO of Asrez
+    <br>
     Senior Software Engineer
     <br>
     GitHub, Developer Maintainer
@@ -58,8 +60,6 @@ Max Base: Seyyed Ali Mohammadiyeh
 =================================
 
 In the name of god; Greetings!
-
-([Also available in Persian](https://maxbase.ir/){:target="_blank"})
 
 {% include _sections/bio.md %}
 
