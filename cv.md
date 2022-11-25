@@ -15,30 +15,42 @@ tags:
     <br>
     GitHub, Developer Maintainer
   </p>
+
   <br>
-  <!-- <a href="#technical-skills">Technical skills</a> -->
-  <!-- &nbsp;|&nbsp; -->
+
+  <a href="#technical-skills">Technical skills</a>
+  &nbsp;|&nbsp;
   <a href="#awards">Awards</a>
   &nbsp;|&nbsp;
   <a href="#experiences">Experiences</a>
   &nbsp;|&nbsp;
-  <a href="#job-offers">Job offers</a>
+  <a href="#job-offers-or-opportunities">Job offers</a>
   &nbsp;|&nbsp;
-  <a href="#projects">Projects</a>
+  <a href="#involved-projects">Projects</a>
   &nbsp;|&nbsp;
   <a href="#talks--conferences">Talks & Conference</a>
   &nbsp;|&nbsp;
-
   <a href="#books">Book(s)</a>
   &nbsp;|&nbsp;
+
+  <br>
+
   <a href="#social-network">Social Network</a>
   &nbsp;|&nbsp;
   <a href="#open-source-staff">Open Source Staff</a>
+  &nbsp;|&nbsp;
+  <a href="#grants-of-fellowships">Grants</a>
+  &nbsp;|&nbsp;
+  <a href="#teaching-or-lecturing-experience">Teaching or lecturing experience</a>
+  &nbsp;|&nbsp;
+  <a href="#languages">Languages</a>
+  &nbsp;|&nbsp;
+  <a href="#memberships">Memberships</a>
+  &nbsp;|&nbsp;
+  <a href="#references">References</a>
+  &nbsp;|&nbsp;
   <br>
-  <a href="#technical-blog">Technical blog</a>
-  &nbsp;|&nbsp;
-  <a href="#life-blog">Life blog</a>
-  &nbsp;|&nbsp;
+
   <a href="#contact-me">Contact me</a>
 </center>
 
@@ -100,12 +112,12 @@ Book(s)
 
 {% include _sections/books.md %}
 
-Social Network of Max Base
+Social Network
 --------------------------
 
 {% include _sections/social-network.md %}
 
-Open-Source Staff by Max
+Open-Source Staff
 ------------------------
 
 {% include _sections/open-source-projects.md %}
@@ -120,11 +132,6 @@ Languages
 
 {% include _sections/languages.md %}
 
-Certificates
-------------
-
-{% include _sections/certificates.md %}
-
 Teaching or lecturing experience
 --------------------------------
 
@@ -134,6 +141,11 @@ Memberships
 -----------
 
 {% include _sections/memberships.md %}
+
+Certificates
+------------
+
+{% include _sections/certificates.md %}
 
 References
 -----------
