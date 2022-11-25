@@ -68,9 +68,7 @@ Technical skills
 
 {% include _sections/skills.md %}
 
-<q>
-	Linus Torvalds: “Talk is cheap. Show me the code.”
-</p>
+Linus Torvalds: <q>Talk is cheap. Show me the code.</q>
 
 Research affiliation
 --------------------
