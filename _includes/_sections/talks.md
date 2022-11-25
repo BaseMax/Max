@@ -25,12 +25,15 @@
 *   July 2022: **Algorithmic and Enumerative Combinatorics 2022** - University of Vienna, Vienna, Austria  
     "A Novel Image Encryption Algorithm Based On Latin And Magic Square"
   
-*   October 2022: **DevOps Global Summit** - Wilmington, USA  
+*   October 2022: **DevOps Global Summit** - Wilmington, USA
     "From Zero-To-Hero in GitHub Actions"
   
-*   November 2022: **React Global Online Summit 22.2** - Online  
+*   November 2022: **React Global Online Summit 22.2** - Online
     "GitHub Actions for auto-deploying React Web apps"
-  
+
+*   November 2022: **Data Science Global Summit’22.2** - Online
+    "Real-life use case on NumPy; A tool that Every Data Scientist Needs to Master"
+
 *   [12th Iranian International Group Theory Conference](https://igtc12.modares.ac.ir/)  
     "GAP (Group Algorithm Programming)"; Seyyed Ali Mohammadiyeh and [Prof. Ali Reza Ashrafi](https://en.wikipedia.org/wiki/Ali_Reza_Ashrafi)
   
