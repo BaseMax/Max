@@ -15,7 +15,7 @@ plugins:
   - jekyll-feed
   - jekyll-avatar
   - jekyll-sitemap
-  # - jekyll-paginate
+  - jekyll-paginate
   - jekyll-target-blank
   - jekyll-redirect-from
   - jekyll-category-pages
