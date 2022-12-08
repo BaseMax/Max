@@ -19,18 +19,12 @@ jobs:
         with:
           ruby-version: '3.1.3' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
 
-      - name: 🔨 Gem Updating
+      - name: Bundle install
+        env:
+          RAILS_ENV: test
         run: |
-          gem update
-
-      - name: 🔨 Gem installing jekyll and bundler and webrick
-        run: |
-          gem install jekyll bundler
-          bundle add webrick
-
-      - name: 🔨 Install bundle
-        run: |
-          bundle install
+          bundle config path vendor/bundle
+          bundle install --jobs 4 --retry 3
 
       - name: 🔨 Build Project
         run: |
