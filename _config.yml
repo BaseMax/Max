@@ -19,6 +19,7 @@ plugins:
   - jekyll-sitemap
   - jemoji
   - jekyll-category-pages
+  - jekyll-avatar
 
 collections:
   posts:
