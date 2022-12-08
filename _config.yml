@@ -11,15 +11,13 @@ category_path: "blog"
 category_layout: "category_index.html"
 
 plugins:
-  - jekyll-sitemap
-  - jekyll-avatar
+  - jemoji
   - jekyll-feed
+  - jekyll-avatar
+  - jekyll-sitemap
   # - jekyll-paginate
   - jekyll-redirect-from
-  - jekyll-sitemap
-  - jemoji
   - jekyll-category-pages
-  - jekyll-avatar
 
 collections:
   posts:
