@@ -11,13 +11,12 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '2.7.4' # Not needed with a .ruby-version file
-          bundler-cache: false # runs 'bundle install' and caches installed gems automatically
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
 
       - name: Bundle install
         env:
           RAILS_ENV: test
         run: |
-          bundle config path vendor/bundle
           bundle install --jobs 4 --retry 3
 
       - name: 🔨 Build Project
