@@ -38,7 +38,7 @@ jobs:
           username: ${{ secrets.SERVER_USERNAME }}
           password: ${{ secrets.SERVER_PASSWORD }}
           remote_folder: ${{ secrets.SERVER_PATH }}
-          local_folder: '.'
+          local_folder: './_site/'
           cleanup: false
           include: '[ "*", "**/*" ]'
           exclude: '[".htaccess", ".github/**", ".git/**", "*.env"]'
