@@ -12,7 +12,7 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-avatar'
   gem 'jekyll-sitemap'
-  # gem "jekyll-paginate"
+  gem "jekyll-paginate"
   gem 'jekyll-target-blank'
   gem 'jekyll-redirect-from'
   gem 'jekyll-category-pages'
