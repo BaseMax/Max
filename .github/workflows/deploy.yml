@@ -25,8 +25,7 @@ jobs:
 
       - name: List output files
         run: |
-          find . -print
-          ls -al
+          find ./_site/ -print
 
       - name: FTP Deployer
         uses: sand4rt/ftp-deployer@v1.4
