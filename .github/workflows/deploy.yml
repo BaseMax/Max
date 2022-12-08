@@ -7,6 +7,40 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+      # Use GitHub Actions' cache to shorten build times and decrease load on servers
+      - uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '3.1.3' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
+
+      - name: 🔨 Gem Updating
+        run: |
+          gem update
+
+      - name: 🔨 Gem installing jekyll and bundler and webrick
+        run: |
+          gem install jekyll bundler
+          bundle add webrick
+
+      - name: 🔨 Install bundle
+        run: |
+          bundle install
+
+      - name: 🔨 Build Project
+        run: |
+          bundle exec jekyll build
+
+      - name: List output files
+        run: |
+          find . -print
+          ls -al
+
       - name: FTP Deployer
         uses: sand4rt/ftp-deployer@v1.4
         with:
