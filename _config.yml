@@ -16,7 +16,7 @@ plugins:
   - jekyll-avatar
   - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-target-blank
+  # - jekyll-target-blank
   - jekyll-redirect-from
   - jekyll-category-pages
 
