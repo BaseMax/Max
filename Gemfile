@@ -11,6 +11,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-target-blank'
   gem 'jemoji'
+  gem 'jekyll-avatar'
 end
 
 gem "webrick", "~> 1.7"
