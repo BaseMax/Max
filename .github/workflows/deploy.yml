@@ -7,6 +7,18 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+        
+      - name: Clone GitHub-Repository-Export-List
+        run: git clone https://github.com/BaseMax/GitHub-Repository-Export-List/
+      
+      - name: Fetch repositories
+        run: python GitHub-Repository-Export-List/export.py > repositories.html
+
+      - name: List of files
+        run: ls
+
+      - name: Cat repositories.html
+        run: cat repositories.html
 
       - uses: ruby/setup-ruby@v1
         with:
