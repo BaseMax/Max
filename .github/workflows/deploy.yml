@@ -12,13 +12,10 @@ jobs:
         run: git clone https://github.com/BaseMax/GitHub-Repository-Export-List/
       
       - name: Fetch repositories
-        run: python GitHub-Repository-Export-List/export.py > repositories.html
-
-      - name: List of files
-        run: ls
+        run: python GitHub-Repository-Export-List/export.py > _includes/_sections/open-source-projects.md
 
       - name: Cat repositories.html
-        run: cat repositories.html
+        run: cat _includes/_sections/open-source-projects.md
 
       - uses: ruby/setup-ruby@v1
         with:
