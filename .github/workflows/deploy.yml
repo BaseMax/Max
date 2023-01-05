@@ -1,4 +1,9 @@
-on: [push]
+on:
+  schedule:
+    - cron:  '0 9 * * *'
+  push:
+    branches:
+      - main
 
 jobs:
   mirror_with_sftp:
@@ -7,6 +12,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+        
+      - name: Clone GitHub-Repository-Export-List
+        run: git clone https://github.com/BaseMax/GitHub-Repository-Export-List/
+      
+      - name: Fetch repositories
+        run: python GitHub-Repository-Export-List/export.py > _includes/_sections/open-source-projects.md
+
+      - name: Cat repositories.html
+        run: cat _includes/_sections/open-source-projects.md
 
       - uses: ruby/setup-ruby@v1
         with:
@@ -25,8 +39,7 @@ jobs:
 
       - name: List output files
         run: |
-          find . -print
-          ls -al
+          find ./_site/ -print
 
       - name: FTP Deployer
         uses: sand4rt/ftp-deployer@v1.4
