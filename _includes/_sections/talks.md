@@ -1,15 +1,18 @@
 #### 2023
 
-* June 2023: **[10th International Congress on Fundamental and Applied Sciences 2023](https://icfas2023.intsa.org/)** - In person
+* June 2023: **[10th International Congress on Fundamental and Applied Sciences 2023](https://icfas2023.intsa.org/)** - In-Person
   **"Using Mathematical Methods to Improve the Safety and Efficacy of Chemicals and Pharmaceuticals"**
 
-* May 2023: **[5th INTERNATIONAL CONFERENCE on MATHEMATICAL ADVANCES and APPLICATIONS](https://2023.icomaas.com/)** - In person
+* May 2023: **[5th INTERNATIONAL CONFERENCE on MATHEMATICAL ADVANCES and APPLICATIONS](https://2023.icomaas.com/)** - In-Person
   **"Applied Mathematical Physics: Solving Real-World Problems"**
 
-* May 2023: **[5th INTERNATIONAL CONFERENCE on MATHEMATICAL ADVANCES and APPLICATIONS](https://2023.icomaas.com/)** - In person
+* May 2023: **[5th INTERNATIONAL CONFERENCE on MATHEMATICAL ADVANCES and APPLICATIONS](https://2023.icomaas.com/)** - In-Person
   **"Probability in Mathematical Physics: Theory and Applications"**
 
-* March 2023: **[Global Summit for NodeJS 2023](https://www.csda.ir/)** - Online
+* March 2023: **[1st International Workshop on Pure and Applied Mathematics](#)** - Online
+   **"The Art of Graph Visualization: A Hands-On Introduction to NetworkX and Matplotlib in Python"**
+
+* March 2023: **[1st International Conference on Statistical Data Analysis](https://www.csda.ir/)** - Online
    **"Data Analytics in the 21st Century: The Importance of Statistical Data Analysis"**
 
 * January 2023: **[Global Summit for NodeJS 2023](https://events.geekle.us/nodejs/)** - Online
