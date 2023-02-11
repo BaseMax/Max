@@ -1,7 +1,19 @@
 #### 2023
 
+* June 2023: **[10th International Congress on Fundamental and Applied Sciences 2023](https://icfas2023.intsa.org/)** - In person
+  **"Using Mathematical Methods to Improve the Safety and Efficacy of Chemicals and Pharmaceuticals"**
+
+* May 2023: **[5th INTERNATIONAL CONFERENCE on MATHEMATICAL ADVANCES and APPLICATIONS](https://2023.icomaas.com/)** - In person
+  **"Applied Mathematical Physics: Solving Real-World Problems"**
+
+* May 2023: **[5th INTERNATIONAL CONFERENCE on MATHEMATICAL ADVANCES and APPLICATIONS](https://2023.icomaas.com/)** - In person
+  **"Probability in Mathematical Physics: Theory and Applications"**
+
 * January 2023: **[Global Summit for NodeJS 2023](https://events.geekle.us/nodejs/)** - Online
    **"How NPM or Yarn are working; Going to create our own package manager"**
+
+Using Mathematical Methods to Improve the Safety and Efficacy of Chemicals
+and Pharmaceuticals
 
 #### 2022
 
