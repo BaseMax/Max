@@ -3,10 +3,10 @@
 * June 2023: **[10th International Congress on Fundamental and Applied Sciences 2023](https://icfas2023.intsa.org/)** - In-Person
     **"Using Mathematical Methods to Improve the Safety and Efficacy of Chemicals and Pharmaceuticals"**
 
-* May 2023: **[5th INTERNATIONAL CONFERENCE on MATHEMATICAL ADVANCES and APPLICATIONS](https://2023.icomaas.com/)** - In-Person
+* May 2023: **[6th International HYBRID Conference on Mathematical Advances and Applications](https://2023.icomaas.com/)** - In-Person
     **"Applied Mathematical Physics: Solving Real-World Problems"**
 
-* May 2023: **[5th INTERNATIONAL CONFERENCE on MATHEMATICAL ADVANCES and APPLICATIONS](https://2023.icomaas.com/)** - In-Person
+* May 2023: **[6th International HYBRID Conference on Mathematical Advances and Applications](https://2023.icomaas.com/)** - In-Person
     **"Probability in Mathematical Physics: Theory and Applications"**
 
 * March 2023: **[1st International Workshop on Pure and Applied Mathematics](#)** - Online
