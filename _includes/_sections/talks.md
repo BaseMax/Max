@@ -1,7 +1,5 @@
 #### 2023
 
-Using Mathematical Methods to Improve the Safety and Efficacy of Chemicals and Pharmaceuticals
-
 * June 2023: **[10th International Congress on Fundamental and Applied Sciences 2023](https://icfas2023.intsa.org/)** - In person
   **"Using Mathematical Methods to Improve the Safety and Efficacy of Chemicals and Pharmaceuticals"**
 
@@ -12,7 +10,10 @@ Using Mathematical Methods to Improve the Safety and Efficacy of Chemicals and P
   **"Probability in Mathematical Physics: Theory and Applications"**
 
 * March 2023: **[Global Summit for NodeJS 2023](https://www.csda.ir/)** - Online
-   **"Data Analytics in the 21st Century: The Importance of Statistical Data Analysis "**
+   **"Data Analytics in the 21st Century: The Importance of Statistical Data Analysis"**
+
+* January 2023: **[8th International Conference on Food and Environmental Sciences](http://www.icfes.org/)** - Online
+   **"Using Mathematical Methods to Improve the Safety and Efficacy of Chemicals and Pharmaceuticals"**
 
 * January 2023: **[Global Summit for NodeJS 2023](https://events.geekle.us/nodejs/)** - Online
    **"How NPM or Yarn are working; Going to create our own package manager"**
