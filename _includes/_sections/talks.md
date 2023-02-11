@@ -1,3 +1,8 @@
+#### 2023
+
+* January 2023: **[Global Summit for NodeJS 2023](https://events.geekle.us/nodejs/)** - Online
+   **"How NPM or Yarn are working; Going to create our own package manager"**
+
 #### 2022
 
 * November 2022: **[Data Science Global Summit’22.2](https://events.geekle.us/data-science2/)** - Online
