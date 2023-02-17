@@ -134,15 +134,13 @@ This is just a table and the names of the technologies that I have worked with a
     *   Adobe XD,
     *   Figma
 
-Linus Torvalds: <q>Talk is cheap. Show me the code.</q>
-
 Experiences
 -----------
 
 *   **[GitHub](https://github.com/): Open-Source Maintainer**  
 	2013 – Present; Remote  
-	As one of world most active programmers (11th in GitHub ranking), I'm one member of team and help to open-source community day by day.  
-	GitHub, Open Source Friday campaign (https://opensourcefriday.com) and other my repositories
+	As one of world most active programmers, I'm one member of team and help to open-source community day by day.  
+	GitHub, Open Source Friday campaign (https://opensourcefriday.com) and other repositories
   
 *   **[Asrez](https://asrez.com/)**: Chief Technology Officer  
 	2019 – Present; Kashan  
@@ -229,6 +227,8 @@ Open-Source Staff
 
 As one of the most active developers in the world, I have more than 1000 open-source projects, to view more projects, feel free to check out my [GitHub](https://github.com/basemax) profile.
 
+Linus Torvalds: <q>Talk is cheap. Show me the code.</q>
+
 Languages
 ---------
 
@@ -246,5 +246,6 @@ Teaching or lecturing experience
 Memberships
 -----------
 
-{% include _sections/memberships.md %}
+* **2021 - Present** IEEE Society (Institute of Electrical and Electronics Engineers)
+* **2020 - Present**, Iranian mathematics society
 
