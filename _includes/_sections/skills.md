@@ -2,7 +2,7 @@ This is just a table and the names of the technologies that I have worked with a
 
 *   **Programming languages**:
     *   C
-    *   PHP 8.1
+    *   PHP 8.2
     *   JavaScript, TypeScript (ES6+)
     *   Python
     *   Go
