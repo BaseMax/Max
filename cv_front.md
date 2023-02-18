@@ -44,10 +44,12 @@ tags:
 Max Base: Seyyed Ali Mohammadiyeh
 =================================
 
-I, Ali, and my my nickname is Max, currently live in [Kashan](https://en.wikipedia.org/wiki/Kashan). I am a consulting computer analyst/programmer.
+I am Ali, and my nickname is Max, currently living in [Kashan](https://en.wikipedia.org/wiki/Kashan).
+I am a consulting computer analyst/programmer.
 
-As a Full-stack developer I tried many different area of computer science. from assembly and system to web development and design. from high processing and high traffic to algorithm design.  
-I'm young but I have been working with computers since I was a child and it is a big part of my life.
+As a Full-stack developer I have technical knowledge in many areas of computer science.
+Examples include assembly and system design, web development and design and high processing and high traffic and algorithm design.  
+I'm young, but I have been working with computers since I was a child, and it is a big part of my life.
 
 *   Birthday - 27 May.
 *   Computer interests - Tools and Compilers.
@@ -59,7 +61,8 @@ I'm young but I have been working with computers since I was a child and it is a
 *   Musical instrument - [Violon](https://fr.wikipedia.org/wiki/Violon), [Kamancheh](https://en.wikipedia.org/wiki/Kamancheh), [Piano](https://fr.wikipedia.org/wiki/Piano), [Electronic keyboard](https://en.wikipedia.org/wiki/Electronic_keyboard), and [Harmonica](https://en.wikipedia.org/wiki/Harmonica).
 *   Sport - [Table tennis](https://en.wikipedia.org/wiki/Table_tennis).
 
-As one of the world's most active programmers (4th in GitHub worldwide ranking), I have more than 10 years of programming experience and I am still trying to learn new things in the computer world to be a real software engineer.
+As one of the world's most active programmers (4th in GitHub worldwide ranking), I have more than 10 years of programming experience,
+and I am still trying to learn new things in the computer world to further enhance my skills as a real software engineer.
 
 Awards
 ------
@@ -77,7 +80,7 @@ Awards
 Technical skills
 ----------------
 
-This is just a table and the names of the technologies that I have worked with and I have good skills.
+This is a table of the names of the technologies that I have worked with:
 
 *   **Programming languages**:
     *   C
@@ -119,17 +122,17 @@ This is just a table and the names of the technologies that I have worked with a
     *   SQLite,
     *   Neo4j,
     *   Redis,
-    *   PostgreSQL (I am not an expert in PostgreSQL but I used it in several projects)
-*   **Operation Systems**:
+    *   PostgreSQL (I am not an expert in PostgreSQL, but I have used it in several projects)
+*   **Operating Systems**:
     *   GNU/Linux (Arch Linux, Ubuntu, Centos, and Manjaro),
     *   Unix-Like, FreeBSD (My main operating system is Arch-base. But I used BSD for desktops and servers before)
 *   **Content management systems**:
-    *   Wordpress (Design dozens of theme templates and several plugins),
-    *   Joomla (Editing the template and writing the plugin: I almost forgot it and it is from 7 years ago),
-    *   WHMCS (Design plugins, and upgrading a dozens of plugins),
-    *   DataLife Engine (Design a couple templates and modules: almost forgot it and it is from 6 years ago)
+    *   WordPress (Designed dozens of theme templates and several plugins),
+    *   Joomla (Editing templates and writing the plugins: I almost forgot it, and it is from 7 years ago),
+    *   WHMCS (Design plugins, and upgrading dozens of plugins),
+    *   DataLife Engine (Design a couple templates and modules: almost forgot it, and it is from 6 years ago)
 *   **UI/Design**:
-    *   Adobe Photoshop (years ago; I almost do not do this anymore),
+    *   Adobe Photoshop (years ago; I normally do not do this anymore),
     *   [Photopea](https://www.photopea.com/) (Online),
     *   Adobe XD,
     *   Figma
@@ -137,53 +140,54 @@ This is just a table and the names of the technologies that I have worked with a
 Experiences
 -----------
 
-*   **[GitHub](https://github.com/): Open-Source Maintainer**  
-	2013 – Present; Remote  
-	As one of world most active programmers, I'm one member of team and help to open-source community day by day.  
-	GitHub, Open Source Friday campaign (https://opensourcefriday.com) and other repositories
+* **[GitHub](https://github.com/): Open-Source Maintainer**  
+    2013 – Present; Remote  
+    As one of world most active programmers, I'm one member of the team
+    and I love to help the open-source community day by day.  
+    GitHub, Open Source Friday campaign (https://opensourcefriday.com) and other repositories
   
-*   **[Asrez](https://asrez.com/)**: Chief Technology Officer  
-	2019 – Present; Kashan  
-	Leading team, teaching and reviewing the development of projects.  
-	_PostgreSQL · MariaDB · SQL · MongoDB · Go (Programming Language) · Unit Testing · Cascading Style Sheets (CSS) · PHP · JavaScript · Git_
+* **[Asrez](https://asrez.com/)**: Chief Technology Officer  
+    2019 – Present; Kashan  
+    Leading team, teaching and reviewing the development of projects.  
+    _PostgreSQL · MariaDB · SQL · MongoDB · Go (Programming Language) · Unit Testing · Cascading Style Sheets (CSS) · PHP · JavaScript · Git_
   
-*   **[Insly](https://insly.com/en/): Wordpress Developer**  
-	_Feb 2021, Contract; Online_  
-	Working on new template/UI, Creating new plugins to help insurance brokers and agents, Maintenance and running plugin on top of WordPress to serve web services, handling shortcodes and, Hooks.Working on new template/UI, Creating new plugins to help insurance brokers and agents, Maintenance and running plugin on top of WordPress to serve web services, handling shortcodes and, Hooks.
+* **[Insly](https://insly.com/en/): WordPress Developer**  
+    _Feb 2021, Contract; Online_  
+    Working on new template/UI, Creating new plugins to help insurance brokers and agents, Maintenance and running plugin on top of WordPress to serve web services, handling shortcodes and, Hooks.Working on new template/UI, Creating new plugins to help insurance brokers and agents, Maintenance and running plugin on top of WordPress to serve web services, handling shortcodes and, Hooks.
 
-*   **[Insly](https://insly.com/en/): Senior Software Engineer**  
-	_Jan 2021 - Feb 2021, Contract; Online_  
-	Communication with marketing and technical team, Convert marketers and manager ideas to real products, Creating simple and advanced ROI calculator for computing the Quote and binding efficiency. Implement web service API, Backend programming, database stuff, and front-end calculators.
+* **[Insly](https://insly.com/en/): Senior Software Engineer**  
+    _Jan 2021 - Feb 2021, Contract; Online_  
+    Communication with marketing and technical team, Convert marketers and manager ideas to real products, Creating simple and advanced ROI calculator for computing the Quote and binding efficiency. Implement web service API, Backend programming, database stuff, and front-end calculators.
 
-*   **[Scandinavian Transport Network](https://stntaxi.se/): Senior Software Engineer**  
-	_Oct 2018 – Oct 2020, Contract; Linköping, Ostergotland County, Sweden_  
-	Help shape the business from start to final. To reach the customer and support problems. (AWS, Google Cloud, Web Services, etc) Web design, development of mobile applications and map and location infrastructure, driver and customer software.  
-	ES6, Javascript, PHP, CSS, Linux administration problems, React, Web development, IOS and Android software development, Qt C++…  
-	[https://stntaxi.org/](https://stntaxi.org/)
+* **[Scandinavian Transport Network](https://stntaxi.se/): Senior Software Engineer**  
+    _Oct 2018 – Oct 2020, Contract; Linköping, Ostergotland County, Sweden_  
+    Help shape the business from start to final. To reach the customer and support problems. (AWS, Google Cloud, Web Services, etc) Web design, development of mobile applications and map and location infrastructure, driver and customer software.  
+    ES6, Javascript, PHP, CSS, Linux administration problems, React, Web development, IOS and Android software development, Qt C++…  
+    [https://stntaxi.org/](https://stntaxi.org/)
   
-*   **[Takhfifan](https://takhfifan.com/)**: Senior Software Engineer  
-	Feb 2022 - Apr 2022, Contract; Remote  
-	Working closely with the marketing team, Reviewing the code of the engineering team, Interaction with designer and graphic artist, Designing a couple of landing pages for special events like New Year, launching new features of the company, and marketing campaigns. (Pure Javascript, ES6, CSS3, Flex, ReactJS)
+* **[Takhfifan](https://takhfifan.com/)**: Senior Software Engineer  
+    Feb 2022 - Apr 2022, Contract; Remote  
+    Working closely with the marketing team, Reviewing the code of the engineering team, Interaction with designer and graphic artist, Designing a couple of landing pages for special events like New Year, launching new features of the company, and marketing campaigns. (Pure Javascript, ES6, CSS3, Flex, ReactJS)
     
-*   **[University of Kashan](https://kashanu.ac.ir/): Software Engineer**  
-	_Mar 2020 – Present; Fully Remote_  
-	− Set up and configure university servers  
-	− Preparation of record conversion system (Linux, FFMPEG, PHP, Nodejs, Python script, Micro-service)  
-	− Design and preparation of online training platforms (Share Screen, microphone, webcam, whiteboard, record meetings)  
-	− Run hundreds of educational webinars  
-	− Run thousands of classrooms  
-	− Develop learning platforms for schools in city  
-	− Comply with government security standards (University Datacenter, vpn, ssh, local tunnel) …
+* **[University of Kashan](https://kashanu.ac.ir/): Software Engineer**  
+    _Mar 2020 – Present; Fully Remote_  
+    − Set up and configure university servers  
+    − Preparation of record conversion system (Linux, FFMPEG, PHP, Nodejs, Python script, Micro-service)  
+    − Design and preparation of online training platforms (Share Screen, microphone, webcam, whiteboard, record meetings)  
+    − Run hundreds of educational webinars  
+    − Run thousands of classrooms  
+    − Develop learning platforms for schools in city  
+    − Comply with government security standards (University Datacenter, vpn, ssh, local tunnel) …
   
-*   **[Sumo Currency](https://www.sumokoin.org): Software Engineer**  
-	_Mar 2017 – Jul 2017; Fully Remote_  
-	Implementation and optimization Cryptocurrency algorithms in C++.  
-	Algorithms Blake256, Groestl, Jh, Keccak, and Skein
+* **[Sumo Currency](https://www.sumokoin.org): Software Engineer**  
+    _Mar 2017 – Jul 2017; Fully Remote_  
+    Implementation and optimization Cryptocurrency algorithms in C++.  
+    Algorithms Blake256, Groestl, Jh, Keccak, and Skein
   
-*   **[Ryo Currency](https://ryo-currency.com/): Software Engineer**  
-	_Oct 2019 – Dec 2019; Fully Remote_  
-	Design and Implementation twitter bot to sign-in and do some mission... (Python)  
-	[https://github.com/ryo-currency](https://github.com/ryo-currency)
+* **[Ryo Currency](https://ryo-currency.com/): Software Engineer**  
+    _Oct 2019 – Dec 2019; Fully Remote_  
+    Design and Implementation Twitter bot to sign in and do some mission... (Python)  
+    [https://github.com/ryo-currency](https://github.com/ryo-currency)
 
 Involved Projects
 -----------------
@@ -192,21 +196,21 @@ Involved Projects
 Donya is an Operating system. Yet Another Linux distro built using a package management system.
 *   [Donya OS](https://github.com/DonyaOS/) - Donya is an Operating system. Yet Another Linux distro built using a package management system.
 *   [ONE Language](https://github.com/One-Language/) - One (onelang) is an open-source system programming language that makes it easy to build reliable, efficient, and performant software.
-*   [PHP Mussel](https://phpmussel.github.io/) - An ideal solution for shared hosting environments, where it's often not possible to utilise or install conventional anti-virus protection solutions, phpMussel is a PHP script designed to detect trojans, viruses, malware and other threats within files uploaded to your system wherever the script is hooked, based on the signatures of ClamAV and others.
+*   [PHP Mussel](https://phpmussel.github.io/) - An ideal solution for shared hosting environments, where it's often not possible to utilise or install conventional antivirus protection solutions, phpMussel is a PHP script designed to detect trojans, viruses, malware and other threats within files uploaded to your system wherever the script is hooked, based on the signatures of ClamAV and others.
 *   [Open Source Friday](https://opensourcefriday.com/) - This Friday, invest a few hours contributing to the software you use and love.
-*   [iAPK](https://en.iapk.org/) - Android Application Market with 7 diffrent languages. (French, Swedish, English, Persian, etc)
+*   [iAPK](https://en.iapk.org/) - Android Application Market with 7 different languages. (French, Swedish, English, Persian, etc)
 *   [Sarrafchi](https://sarrafchi.ir/) - A free website to get live currency rates in Free Market.
 *   [Ye Film](https://yefilm.ir/) - A free website to download movies and animations.
 *   [UDate](https://udate.ir/) - A free website to see persian calendar to see days and occasions of the year and month (Convert date to each other)
 *   [Hi 2](https://hi2.in/) - Fake email is a good solution for temporary mail that does not require a password and works like a regular email. The main purpose of fake mail is to protect you from spam and internet scammers. Never use your real email on suspicious sites.
 *   [APK DL](https://apkdl.net/) - Ultimate place to download up-to-date version of android apps and games even those are restricted to specific device or country.
 *   Telegram Bots:
-    *   [@Apkdl\_Bot](https://t.me/apkdl_bot): Download latest version of any free android apps and games.
+    *   [@Apkdl\_Bot](https://t.me/apkdl_bot): Download the latest version of any free android apps and games.
     *   [@FakeMailBot](https://t.me/FakeMailBot): Free Fake Email IDs for everyone. Create hundreds of email address and receive unlimited mails everything under 1 second. This bot will forward all the emails to you as soon as it arrives you can also reply to any email you receive.
     *   [@DownloadStickersBot](https://t.me/DownloadStickersBot): Download your favourite stickers in jpg,png,webp formats or whole pack as zip file.
     *   [@UploadBot](https://t.me/uploadbot): This bot help you to quickly upload files from URL to Telegram. Quick way to upload files to telegram by url.
     *   [@Mp3ToolsBot](https://t.me/mp3toolsbot): Convert any MP3 into voice message, add/edit MP3 tags, cut MP3 based on start and end points in seconds, add album art.
-    *   [@UtuberaBot](https://t.me/utuberabot): I am the Best Youtube Video Downloader with MP3 Conversion support.
+    *   [@UtuberaBot](https://t.me/utuberabot): I am the Best YouTube Video Downloader with MP3 Conversion support.
     *   [@File2Link\_Bot](https://t.me/file2link_bot): get download link for any telegram file, size limit is 20MB.
     *   [@GetPublicLinkBot](https://t.me/getpubliclinkbot): Just Send Me any Document File of any SIZE i will Generate a External Link.
 
@@ -247,5 +251,5 @@ Memberships
 -----------
 
 * **2021 - Present** IEEE Society (Institute of Electrical and Electronics Engineers)
-* **2020 - Present**, Iranian mathematics society
+* **2020 - Present**, Iranian Mathematics Society
 
