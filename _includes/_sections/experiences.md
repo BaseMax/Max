@@ -1,3 +1,6 @@
+*   **Remote: Senior Laravel Developer**  
+    2023 – Present; Remote
+
 *   **[GitHub](https://github.com/): Open-Source Maintainer**  
     2013 – Present; Remote  
     As one of world most active programmers (11th in GitHub ranking), I'm one member of team and help to open source community day by day.  
@@ -17,7 +20,24 @@
 *   **[Takhfifan](https://takhfifan.com/)**: Senior Software Engineer  
     Feb 2022 - Apr 2022, Contract; Remote  
     Working closely with the marketing team, Reviewing the code of the engineering team, Interaction with designer and graphic artist, Designing a couple of landing pages for special events like New Year, launching new features of the company, and marketing campaigns. (Pure Javascript, ES6, CSS3, Flex, ReactJS)
-  
+
+*   **[Khodrobank](https://www.khodrobank.com/)**: Senior Front-end and Product Manager
+    Mar 2022 - Jun 2022 · 4 mosMar 2022 - Jun 2022 · 4 mos
+    Suggest new ideas to managers and the team of design,
+    Working on front-end stuff,
+    Reviewing codes of the team,
+    Working on the back-end and database stuff to improve the site qualitySuggest new ideas to managers and the team of design, Working on front-end stuff, Reviewing codes of the team, Working on the back-end and database stuff to improve the site quality
+
+
+*   **[Mirese](https://mirese.ir)**: Senior Back-End Engineer
+     Jan 2022 - May 2022 · 5 mosJan 2022 - May 2022 · 5 mos
+     Preparing the backend structure and framework with our suitable architecture,
+     Optimize the structure of the databases,
+     Design a recommendation system to offer products to customers,
+     Handling thousands of requests daily with a minimum server,
+     Design suitable solutions for delivery systems,
+     Caching the data and search results to make the page load really fast.
+
 *   **[University of Kashan](https://kashanu.ac.ir/en/): Research Assistant**  
     Mar 2020 - Oct 2022; Kashan  
     Researching about mathematics topics, developing algorithms and programs, Writing research papers, giving talks at conferences, etc.
