@@ -18,11 +18,11 @@
     [https://stntaxi.org/](https://stntaxi.org/)
   
 *   **[Takhfifan](https://takhfifan.com/)**: Senior Software Engineer  
-    Feb 2022 - Apr 2022, Contract; Remote  
+    _Feb 2022 - Apr 2022, Contract; Remote_  
     Working closely with the marketing team, Reviewing the code of the engineering team, Interaction with designer and graphic artist, Designing a couple of landing pages for special events like New Year, launching new features of the company, and marketing campaigns. (Pure Javascript, ES6, CSS3, Flex, ReactJS)
 
-*   **[Khodrobank](https://www.khodrobank.com/)**: Senior Front-end and Product Manager
-    Mar 2022 - Jun 2022 · 4 mosMar 2022 - Jun 2022 · 4 mos
+*   **[Khodrobank](https://www.khodrobank.com/)**: Senior Front-end and Product Manager  
+    _Mar 2022 - Jun 2022 · 4 mosMar 2022 - Jun 2022 · 4 mos_  
     Suggest new ideas to managers and the team of design,
     Working on front-end stuff,
     Reviewing codes of the team,
