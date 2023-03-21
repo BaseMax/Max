@@ -1,7 +1,16 @@
 #### 2023
 
+*September 2023: **[JavaScript Global Summit'23](https://events.geekle.us/js23/)** - Online
+    **"Building a WebSocket Server and Client: Live Coding with Node.js and JavaScript"**
+
+*June 2023: **[VUE.JS Global Summit'23](https://events.geekle.us/vuejs23/)** - Online
+    **"Simplifying vue. Js testing with browser-based automated testing scripts"**
+
 * June 2023: **[10th International Congress on Fundamental and Applied Sciences 2023](https://icfas2023.intsa.org/)** - In-Person
     **"Using Mathematical Methods to Improve the Safety and Efficacy of Chemicals and Pharmaceuticals"**
+
+*May 2023: **[TypeScript Global Summit'23](https://events.geekle.us/typescript/)** - Online
+    **"Designing an Entertaining Game with Typescript: A Hands-On Approach"**
 
 * May 2023: **[6th International HYBRID Conference on Mathematical Advances and Applications](https://2023.icomaas.com/)** - In-Person
     **"Applied Mathematical Physics: Solving Real-World Problems"**
