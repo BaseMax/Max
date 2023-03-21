@@ -3,7 +3,11 @@
 * September 2023: **[JavaScript Global Summit'23](https://events.geekle.us/js23/)** - Online 
 
    **"Building a WebSocket Server and Client: Live Coding with Node.js and JavaScript"**
-    
+
+* July 2023: **[AI in Software Development Conf'23](https://events.geekle.us/aisoftware/)** - Online 
+
+   **"Supercharge Your Database Queries: How Outsourced SQL Services Can Optimize Development Workflows"**
+
 * June 2023: **[VUE.JS Global Summit'23](https://events.geekle.us/vuejs23/)** - Online 
 
    **"Simplifying vue. Js testing with browser-based automated testing scripts"**
@@ -11,6 +15,10 @@
 * June 2023: **[10th International Congress on Fundamental and Applied Sciences 2023](https://icfas2023.intsa.org/)** - In-Person
 
     **"Using Mathematical Methods to Improve the Safety and Efficacy of Chemicals and Pharmaceuticals"**
+
+* May 2023: **[E-Commerce Tech Online Summit'23](https://events.geekle.us/ecommerce23/)** - Online 
+
+   **"The Power of AI and ML in E-commerce: Crafting Personalized Shopping Experiences and Boosting Sales with Recommendation Systems"**
 
 * May 2023: **[TypeScript Global Summit'23](https://events.geekle.us/typescript/)** - Online 
 
