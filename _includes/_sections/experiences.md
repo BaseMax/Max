@@ -7,9 +7,9 @@
     GitHub, Open Source Friday campaign (https://opensourcefriday.com) and other my repositories
   
 *   **[Asrez](https://asrez.com/)**: Chief Technology Officer  
-    2019 – Present; Kashan  
+    _2019 – Present; Kashan_  
     Leading team, teaching and reviewing the development of projects.  
-    _PostgreSQL · MariaDB · SQL · MongoDB · Go (Programming Language) · Unit Testing · Cascading Style Sheets (CSS) · PHP · JavaScript · Git_
+    _PostgreSQL · MariaDB · Go · SQL · MongoDB · Go (Programming Language) · Unit Testing · Cascading Style Sheets (CSS) · PHP · JavaScript · Git_
   
 *   **[Scandinavian Transport Network](https://stntaxi.se/): Senior Software Engineer**  
     _Oct 2018 – Oct 2020, Contract; Linköping, Ostergotland County, Sweden_  
@@ -22,15 +22,14 @@
     Working closely with the marketing team, Reviewing the code of the engineering team, Interaction with designer and graphic artist, Designing a couple of landing pages for special events like New Year, launching new features of the company, and marketing campaigns. (Pure Javascript, ES6, CSS3, Flex, ReactJS)
 
 *   **[Khodrobank](https://www.khodrobank.com/)**: Senior Front-end and Product Manager  
-    _Mar 2022 - Jun 2022 · 4 mosMar 2022 - Jun 2022 · 4 mos_  
+    _Mar 2022 - Jun 2022_  
     Suggest new ideas to managers and the team of design,
     Working on front-end stuff,
     Reviewing codes of the team,
     Working on the back-end and database stuff to improve the site qualitySuggest new ideas to managers and the team of design, Working on front-end stuff, Reviewing codes of the team, Working on the back-end and database stuff to improve the site quality
 
-
 *   **[Mirese](https://mirese.ir)**: Senior Back-End Engineer
-     Jan 2022 - May 2022 · 5 mosJan 2022 - May 2022 · 5 mos
+     _Jan 2022 - Dec 2022_  
      Preparing the backend structure and framework with our suitable architecture,
      Optimize the structure of the databases,
      Design a recommendation system to offer products to customers,
@@ -39,7 +38,7 @@
      Caching the data and search results to make the page load really fast.
 
 *   **[University of Kashan](https://kashanu.ac.ir/en/): Research Assistant**  
-    Mar 2020 - Oct 2022; Kashan  
+    _Mar 2020 - Oct 2022; Kashan_  
     Researching about mathematics topics, developing algorithms and programs, Writing research papers, giving talks at conferences, etc.
   
 *   **[University of Kashan](https://kashanu.ac.ir/): Software Engineer**  
