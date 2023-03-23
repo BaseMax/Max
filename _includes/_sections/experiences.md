@@ -28,7 +28,7 @@
     Reviewing codes of the team,
     Working on the back-end and database stuff to improve the site qualitySuggest new ideas to managers and the team of design, Working on front-end stuff, Reviewing codes of the team, Working on the back-end and database stuff to improve the site quality
 
-*   **[Mirese](https://mirese.ir)**: Senior Back-End Engineer
+*   **[Mirese](https://mirese.ir)**: Senior Back-End Engineer  
      _Jan 2022 - Dec 2022_  
      Preparing the backend structure and framework with our suitable architecture,
      Optimize the structure of the databases,
