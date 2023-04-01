@@ -32,9 +32,13 @@
 
    **"Probability in Mathematical Physics: Theory and Applications"**
 
-* March 2023: **[1st International Workshop on Pure and Applied Mathematics](#)** - Online
+* March 2023: **[1st International Workshop on Pure and Applied Mathematics](https://sites.google.com/view/iwatds-2023/)** - Online
 
    **"The Art of Graph Visualization: A Hands-On Introduction to NetworkX and Matplotlib in Python"**
+
+* March 2023: **[1st International Workshop on Pure and Applied Mathematics](https://sites.google.com/view/iwatds-2023/)** - Online
+
+   **"A Simple Hash Function for Various Computer Applications"**
 
 * March 2023: **[1st International Conference on Statistical Data Analysis](https://www.csda.ir/)** - Online
 
