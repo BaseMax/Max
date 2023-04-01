@@ -34,11 +34,11 @@
 
 * March 2023: **[1st International Workshop on Pure and Applied Mathematics](https://sites.google.com/view/iwatds-2023/)** - Online
 
-   **"The Art of Graph Visualization: A Hands-On Introduction to NetworkX and Matplotlib in Python"**
+   **"The Art of Graph Visualization: A Hands-On Introduction to NetworkX and Matplotlib in Python"** - University of Kufe
 
 * March 2023: **[1st International Workshop on Pure and Applied Mathematics](https://sites.google.com/view/iwatds-2023/)** - Online
 
-   **"A Simple Hash Function for Various Computer Applications"**
+   **"A Simple Hash Function for Various Computer Applications"** - University of Kufe
 
 * March 2023: **[1st International Conference on Statistical Data Analysis](https://www.csda.ir/)** - Online
 
