@@ -55,6 +55,7 @@ This is just a table and the names of the technologies that I have worked with a
     *   HBase,
     *   Cassandra,
     *   Microsoft Access,
+    *   Amazon DynamoDB,
     *   Amazon Relational Database Service
 *   **Operation Systems**:
     *   GNU/Linux (Arch Linux, Ubuntu, Centos, and Manjaro),
