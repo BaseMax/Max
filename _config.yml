@@ -10,6 +10,8 @@ markdown: kramdown
 category_path: "blog"
 category_layout: "category_index.html"
 
+strict_front_matter: true
+
 plugins:
   - jemoji
   - jekyll-feed
